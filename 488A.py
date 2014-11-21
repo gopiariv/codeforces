@@ -1,5 +1,5 @@
 def main():
-	n = int(input())
+	a = int(input())
 	for i in range(1,17):
 		if '8' in str(a+i):
 			print(i)
