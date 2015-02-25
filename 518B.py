@@ -1,3 +1,5 @@
+#could use defaultdict or counter for easy solution
+
 def main():	
 	s = (input())
 	t = (input())
